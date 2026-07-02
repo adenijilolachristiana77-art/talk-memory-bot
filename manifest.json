@@ -1,0 +1,15 @@
+{
+  "name": "Super Memory Voice Bot",
+  "short_name": "VoiceBot",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#a855f7",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/0y0y0y0.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
